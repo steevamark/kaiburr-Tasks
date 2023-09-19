@@ -1,0 +1,8 @@
+#spring:
+#  data:
+#    mongodb:
+#      uri : mongodb+srv://ssteevamark2942000:Steeva@1234@cluster0.gaj7lsj.mongodb.net/?retryWrites=true&w=majority
+#      Database: Bookstore
+
+
+
